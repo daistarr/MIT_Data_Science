@@ -7,4 +7,4 @@ Here are my solutions for problem sets from classes 6-100A and 6-100B.
 ### These courses are fundamentals for Data Science and essential in your professional development if you want to pursue a career in this area.
 <br>
 
-They are only published here as part of my portfolio to showcase my coding skills in Python
+They are only published here as part of my portfolio to showcase my coding skills in Python!
